@@ -15,7 +15,15 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarianeMarinho&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=true&order=2" height="171" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs
+?username=MarianeMarinho
+&layout=compact
+&langs_count=8
+&theme=react
+&hide_border=true
+&exclude_repo=MarianeMarinho"
+ />
+
 </div>
 
 ###
