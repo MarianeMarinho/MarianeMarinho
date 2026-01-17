@@ -10,7 +10,17 @@
 
 ###
 
-<p align="left">Me chamo **Mariane Marinho**, sou desenvolvedora Full Stack com experiência em **React, Next.js, TypeScript, Node.js, SQL, VTEX IO, n8n e automações com IA**.  <br>Atuei em **projetos de alto tráfego**, construção de interfaces responsivas, otimização de performance, integrações com APIs REST e desenvolvimento escalável tanto no front quanto no back-end.  <br>Atualmente curso **Análise e Desenvolvimento de Sistemas** e evoluo na área de automações inteligentes, infraestrutura e containers.</p>
+<p align="left">
+Sou <strong>Mariane Marinho</strong>, desenvolvedora <strong>Full Stack</strong> com experiência em
+<strong>React, Next.js, TypeScript, Node.js, SQL, VTEX IO, n8n</strong> e
+<strong>automações com IA</strong>.<br>
+Atuo no desenvolvimento de aplicações de <strong>alto tráfego</strong>, com foco em
+<strong>interfaces responsivas, performance, integrações com APIs REST</strong> e
+<strong>arquiteturas escaláveis</strong> no front-end e back-end.<br>
+Atualmente curso <strong>Análise e Desenvolvimento de Sistemas</strong> e aprofundo meus estudos em
+<strong>automações inteligentes, infraestrutura e containers</strong>.
+</p>
+
 
 ###
 
